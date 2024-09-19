@@ -2,7 +2,7 @@ menu "Example Configuration"
 
     config ESP_WIFI_SSID
         string "WiFi SSID"
-        default "AIS 4G Hi-speed Home WiFi_769475"
+        default "AIS 4G Hi-Speed Home WiFi_769475"
         help
             SSID (network name) for the example to connect to.
 
