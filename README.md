@@ -1,4 +1,4 @@
-# แนวทางการทำงาน ESP32 hello_world cook book
+# แนวทางการทำงาน ESP32_ESP-IDF_WiFi-STA cook book
 ## 1. ระบุตัวอย่างที่ใช้ ว่าเอามาจากตัวอย่างไหน
 - เลือกโปรเจค Wi-Fi Station Example จาก show examples แล้วกด create
 ![image](https://github.com/user-attachments/assets/82d2699c-593f-424d-8f1d-3d465537b4f8)
