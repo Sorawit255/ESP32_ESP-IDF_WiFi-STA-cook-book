@@ -988,3 +988,5 @@
 88832	93294	7516408803208089	ESP32_ESP-IDF_WiFi-STA.elf	d7d664261e8e2c39
 93670	93769	0	esp-idf/esptool_py/CMakeFiles/app_check_size	4849fe2f34762081
 93670	93769	0	E:/.Computer Lau/P3_ESP32/ESP32_ESP-IDF_WiFi-STA/build/esp-idf/esptool_py/CMakeFiles/app_check_size	4849fe2f34762081
+68	1096041	0	CMakeFiles/confserver	8f4fb6899788c8e2
+68	1096041	0	E:/.Computer Lau/P3_ESP32/ESP32_ESP-IDF_WiFi-STA/build/CMakeFiles/confserver	8f4fb6899788c8e2
